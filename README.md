@@ -1,1 +1,1 @@
-# Smart-India-Hackathon-2024
+CarbonFootprint-CoalMines
